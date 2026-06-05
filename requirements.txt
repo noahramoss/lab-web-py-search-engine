@@ -1,0 +1,14 @@
+chromadb==0.4.24
+groq==0.4.2
+fastapi==0.111.0
+uvicorn==0.30.1
+python-dotenv==1.0.1
+pytest==8.2.2
+sentence-transformers==2.7.0
+httpx==0.27.0
+pydantic==2.7.4
+jupyter
+pandas
+matplotlib
+seaborn
+scikit-learn
